@@ -1,6 +1,6 @@
 #!/bin/bash
 for i in {1..10}; do
-  if curl -fs http://localhost/ | grep -q "GlobalMart"; then
+  if curl -fs http://localhost/ | grep -q "Nonexistent"; then
     echo "Validation passed"
     exit 0
   fi
