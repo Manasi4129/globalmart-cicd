@@ -29,3 +29,19 @@ GitHub (main) → AWS CodePipeline → AWS CodeDeploy → EC2 (Amazon Linux 2023
 AWS EC2 · CodePipeline · CodeDeploy · IAM · Systems Manager · GitHub · Bash · Apache
 
 ## Screenshots
+Successful CodePipeline
+<img width="1182" height="521" alt="CodePipeline" src="https://github.com/user-attachments/assets/e24bba76-7404-4585-a535-2aa5c579d30d" />
+
+Deployment History | Made changes to app file to check deployments were successful
+<img width="1627" height="431" alt="CodeDeployHistory" src="https://github.com/user-attachments/assets/74d1faf9-a6e9-4503-ba4b-cc490573dd29" />
+
+Errors | validate script was changed
+<img width="1102" height="475" alt="ErrorLogs" src="https://github.com/user-attachments/assets/e83da68e-81fd-4ba0-9e11-3a100f602aa3" />
+
+Succssful Deploy and Final o/p
+<img width="1110" height="601" alt="image" src="https://github.com/user-attachments/assets/685d0d99-cecf-46d5-b810-a82c6090b6f9" />
+<img width="1916" height="653" alt="image" src="https://github.com/user-attachments/assets/262679ae-87e0-4211-bd36-204993303974" />
+
+
+
+
